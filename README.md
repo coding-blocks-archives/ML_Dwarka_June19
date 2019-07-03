@@ -7,3 +7,7 @@
 `class_05`: KMeans Clustering (Lloyd's), Dominant Color Extraction and Image Segmentation<br>
 `class_06`: Decision Trees, Random Forests<br>
 `class_07`: Principal Component Analysis (PCA), PCA on MNIST<br>
+`class_08`: Univariate, Multivariate Linear Regression<br>
+`class_09`: Logistic Regression<br>
+`class_10`: Neural Networks Theory, Manifolds<br>
+`class_11`: NN from scratch using Numpy<br>
