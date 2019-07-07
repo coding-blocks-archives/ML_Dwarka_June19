@@ -1,0 +1,3 @@
+Keras Documentation  -- https://keras.io/
+Blog on Optimizers   -- http://ruder.io/optimizing-gradient-descent/
+Blog on Autoencoders -- https://blog.keras.io/building-autoencoders-in-keras.html
