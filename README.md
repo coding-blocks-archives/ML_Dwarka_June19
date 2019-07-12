@@ -11,3 +11,7 @@
 `class_09`: Logistic Regression<br>
 `class_10`: Neural Networks Theory, Manifolds<br>
 `class_11`: NN from scratch using Numpy<br>
+`class_12`: Convolutional Neural Networks (CNN)<br>
+`class_13`: Autoencoders<br>
+`class_14`: Web Scraping, NLTK<br>
+`class_15`: Naive Bayes, Text Generation using Markov Chains<br>
