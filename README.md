@@ -15,3 +15,4 @@
 `class_13`: Autoencoders<br>
 `class_14`: Web Scraping, NLTK<br>
 `class_15`: Naive Bayes, Text Generation using Markov Chains<br>
+`class_16`: Word Embeddings (Word2Vec, GloVe), Gensim<br>
