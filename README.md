@@ -17,3 +17,4 @@
 `class_15`: Naive Bayes, Text Generation using Markov Chains<br>
 `class_16`: Word Embeddings (Word2Vec, GloVe), Gensim<br>
 `class_17`: Hands-on with CNN Projects<br>
+`class_18`: RNN (IMDB Sentiment Analysis), GRU (theory), LSTM (Seq2Seq; Text Gen)<br>
