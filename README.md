@@ -20,3 +20,4 @@
 `class_18`: RNN (IMDB Sentiment Analysis), GRU (theory), LSTM (Seq2Seq; Text Gen)<br>
 `class_19`: Recommender Systems<br>
 `class_20`: Transfer Learning, [DC]GAN on MNIST, Neural Art<br>
+`class_21`: Overfitting, Genetic Algorithms, Intro to Reinforcement Learning<br>
